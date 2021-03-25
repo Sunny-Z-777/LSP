@@ -14,7 +14,7 @@ export default {
     data() {
         return {
             imgUrl: require("../src/assets/images/lsp.jpg"),
-            text: "webpack 配置完成"
+            text: "完成"
         }
     }
 }
